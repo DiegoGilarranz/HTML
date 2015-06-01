@@ -1,0 +1,235 @@
+body {
+	color: white;
+	margin: 0;
+	background-color: #201b0e;
+
+}
+
+
+
+#cabecera {
+	
+	padding: 0 200px;
+	background-image: url(../img/cabecera.png);
+	background-repeat: no-repeat;
+}
+
+#titulo{
+	
+	width: 300px
+}
+
+#subtitulo{
+
+	color: #af9671;
+}
+
+#menu{
+
+	margin-top: -80px;
+	float: right;
+	margin-right: 130px;
+}
+
+#menu li {
+
+	list-style-type: none;
+	display: inline;
+	margin-right: 38px;
+
+}
+
+#menu a{
+
+	text-decoration: none;
+	color: #af9671;
+}
+
+#menu a:hover{
+	color: orange;
+}
+
+#texto1{
+
+	display: inline-table;
+}
+
+#texto1 h2{
+
+	color: #ea9f3e;
+}
+
+#texto2 {
+
+	  display: inline-table;
+	  margin-left: 50px;
+}
+
+#texto2 h2{
+
+	color: #ea9f3e;
+}
+
+#texto2 img{
+
+	float: left;
+}
+
+#texto2 span{
+
+	color: #ea9f3e;
+}
+
+#parrafofoto {
+
+	float: right;
+}
+
+#data {
+	
+	padding: 0 200px;
+}
+
+#data h2{
+
+	color: #ea9f3e; 
+}
+
+#imagenproyecto{
+
+	display: inline-table;
+	margin-right: 70px;
+}
+
+#imagenproyecto h3{
+
+	font-size: 14px;
+	color: #af9671;
+}
+
+#imagenproyecto p{
+
+	font-size: 10px;
+	color: white;
+}
+
+#info{
+
+	padding: 0 200px;
+	background-image: url(../img/base.png);
+	background-repeat: no-repeat;
+}
+
+#parrafo1{
+
+	display: inline-table;
+}
+
+#parrafo1 img{
+
+	display: inline;
+}
+
+#parrafo1 h2{
+
+	display: inline;
+	color: #ea9f3e;
+}
+
+#parrafo1 h3{
+
+	color: #af9671;
+}
+
+#parrafo1 p{
+
+	font-size: 14px;
+
+}
+#parrafo1 a{
+
+	text-decoration: none;
+	color: #af9671;
+}
+
+#parrafo1 a:hover{
+
+	color: orange
+}
+
+#parrafo2{
+	
+	display: inline-table;
+	margin-left: 60px;
+}
+#parrafo2 img{
+	
+	display: inline;
+}
+#parrafo2 h2{
+	display: inline;
+	color: #ea9f3e;
+}
+
+#parrafo2 p{
+
+	font-size: 14px;
+
+}
+
+#parrafo3{
+	
+	display: inline-table;
+	margin-left: 70px;
+}
+
+#parrafo3 img{
+
+	display: inline;
+}
+
+#parrafo3 h2{
+
+	display: inline;
+	color: #ea9f3e;
+}
+
+#parrafo3 p{
+
+	font-size: 14px;
+
+}
+#parrafo3 a{
+	
+	text-decoration: none;
+	color: #ea9f3e;
+}
+
+#parrafo3 a:hover{
+
+	color: #8f560b;
+}
+
+#parrafo3 span{
+
+	color: #ea9f3e;
+}
+
+#lista_images li {
+
+	list-style-type: none;
+}
+
+#lista_images p{
+
+	float: right;
+	padding: 0 20;
+}
+
+
+#footer {
+
+	padding: 0 200px;
+	background-image: url(../img/footer.png);
+	background-repeat: no-repeat;
+}
